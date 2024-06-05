@@ -1,0 +1,32 @@
+  h1 {
+    color: rgb(255, 166, 0);
+    font-family: "Comic Sans MS";
+  }
+
+  body {
+    background-color: rgb(202, 49, 49);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #dream {
+    color: rgb(0, 0, 255);
+    font-family: "Comic Sans MS";
+  } 
+
+  #prison{
+    color: rgb(255, 255, 0);
+    font-family: "Comic Sans MS";
+  }
+
+  #torture{
+    color: rgb(55, 175, 75);
+    font-family: "Comic Sans MS";
+  }
+
+  #life-complete{
+    color: rgb(140, 0, 255);
+    font-family: "Comic Sans MS";
+  }
